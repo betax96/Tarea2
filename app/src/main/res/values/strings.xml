@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="punto_medio">Punto medio</string>
+    <string name="pendiente">Pendiente</string>
+    <string name="cuadrante">Cuadrante</string>
+    <string name="aleatorio">Aleatorio</string>
+    <string name="distancia">Distancia</string>
+    <string name="cuandrante_punto_1">Cuandrante punto 1</string>
+    <string name="cuandrante_punto_2">Cuandrante punto 2</string>
+    <string name="err_valores_no_validos">Se han encotrado valores no validos.</string>
+</resources>
